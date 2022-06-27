@@ -2,9 +2,11 @@ title:"问题与解决"
 
 author:"Morikumi"
 
-date:2021-6-27\n
+date:2021-6-27
+
 
 ---
+
 
 1、hugo version查看是否安装成功
 
